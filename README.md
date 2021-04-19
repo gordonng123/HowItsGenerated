@@ -1,4 +1,4 @@
-# DraftToDeck
+# HowItsGenerated
 
 This is Nathaniel Gordon's final project for CS4120, Natural Language Processing.
 
